@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dingus-CovK.aternos.me:42331",
+    "ip": "dingus-CovK.aternos.me",
     "port": 42331,
     "version": "",
     "try-creative": false
